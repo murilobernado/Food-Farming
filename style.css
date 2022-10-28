@@ -1,0 +1,137 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFFAF3;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+html{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+/*------------------NAV----------------*/
+
+.link-nav {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 25px;
+    font-size: 20px;
+    line-height: 27px;
+    margin-top: 274px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.link-nav2 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 25px;
+    font-size: 20px;
+    line-height: 27px;
+    margin-top: 274px;
+    margin-left: 54px;
+    margin-bottom: 282px;
+    text-align: center;
+}
+
+.link-nav:nth-child(2) {
+    color: #C08D5D;
+}
+
+.img-nav {
+    margin-left: 65px;
+    margin-top: 57px;
+    margin-right: 350px;
+}
+
+.img-nav2 {
+    margin-left: 20px;
+}
+
+/*------------------MAIN---------------*/
+
+
+main {
+    margin-top: -800px;
+    margin-left: 194px;
+}
+
+
+h2 {
+    display: inline-block;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 67px;
+    letter-spacing: 0.06em;
+    color: #3F4042;
+    margin-top: 282px;
+}
+
+h1 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 93px;
+    letter-spacing: 0.06em;
+    color: #3F4042;
+}
+
+p {
+    width: 535px;
+    height: 108px;
+    left: 152px;
+    top: 500px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 147.6%;
+    letter-spacing: 0.06em;
+    color: #3F4042;
+}
+
+.grape-img {
+    display: inline-block;
+    margin-left: 1300px;
+    margin-top: -100px;
+    width: 660px;
+    height: 878px;
+}
+
+.line-text {
+    margin-top: 20px;
+}
+
+.read-more {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 10px;
+    font-size: 15px;
+    letter-spacing: 0.06em;
+    color: #3F4042;
+    margin-left: -180px;
+}
+
+.img-read {
+    margin-bottom: -25px;
+}
+
+.mouse-logo {
+    width: 85px;
+    height: 100px;
+    margin-left: 640px;
+
+}
+
+.read-more:hover{
+    color: rgb(154, 154, 154);
+    cursor: pointer;
+}
